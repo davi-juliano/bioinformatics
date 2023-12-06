@@ -1,0 +1,2 @@
+A diferença de valores do escore do nwalign está relacionado com a matriz comparativa que há de demarcar os escores.
+A diferença entre os escores da matriz identidade e da matriz colocada está na variação dos valores nelas colocadas por cada alinhamento ou pareamento.

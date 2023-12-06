@@ -1,0 +1,3 @@
+Escores calculados pela matriz identidade: 99
+Escores calculados pela matriz de escores: 439
+Escores calculados pela funcao nwalign: 121.187092

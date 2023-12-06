@@ -1,0 +1,76 @@
+(
+(
+sp|Q9NYL5.2|CP39A_HUMAN RecName\: Full=24-hydroxycholesterol 7-alpha-hydroxylase\; AltName\: Full=Cytochrome P450 39A1\; Short=hCYP39A1\; AltName\: Full=Oxysterol 7-alpha-hydroxylase:1.4894,
+(
+sp|Q9UNU6.2|CP8B1_HUMAN RecName\: Full=7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase\; AltName\: Full=7-alpha-hydroxy-4-cholesten-3-one 12-alpha-hydroxylase\; AltName\: Full=CYPVIIIB1\; AltName\: Full=Cytochrome P450 8B1\; AltName\: Full=Sterol 12-alpha-hydroxylase:1.1203,
+(
+sp|P22680.2|CP7A1_HUMAN RecName\: Full=Cholesterol 7-alpha-monooxygenase\; AltName\: Full=CYPVII\; AltName\: Full=Cholesterol 7-alpha-hydroxylase\; AltName\: Full=Cytochrome P450 7A1:0.98166,
+sp|O75881.2|CP7B1_HUMAN RecName\: Full=25-hydroxycholesterol 7-alpha-hydroxylase\; AltName\: Full=Cytochrome P450 7B1\; AltName\: Full=Oxysterol 7-alpha-hydroxylase:0.98166)
+Branch 11:0.1386)
+Branch 13:0.36918)
+Branch 19:0.34229,
+(
+(
+(
+sp|P15538.5|C11B1_HUMAN RecName\: Full=Cytochrome P450 11B1\, mitochondrial\; AltName\: Full=CYPXIB1\; AltName\: Full=Cytochrome P-450c11\; Short=Cytochrome P450C11\; AltName\: Full=Steroid 11-beta-hydroxylase\; Flags\: Precursor:0.07012,
+sp|P19099.3|C11B2_HUMAN RecName\: Full=Cytochrome P450 11B2\, mitochondrial\; AltName\: Full=Aldosterone synthase\; Short=ALDOS\; AltName\: Full=Aldosterone-synthesizing enzyme\; AltName\: Full=CYPXIB2\; AltName\: Full=Cytochrome P-450Aldo\; AltName\: Full=Cytochrome P-450C18\; AltName\: Full=Steroid 18-hydroxylase\; Flags\: Precursor:0.07012)
+Branch 2:1.2509,
+(
+sp|Q07973.2|CP24A_HUMAN RecName\: Full=1\,25-dihydroxyvitamin D\(3\) 24-hydroxylase\, mitochondrial\; Short=24-OHase\; Short=Vitamin D\(3\) 24-hydroxylase\; AltName\: Full=Cytochrome P450 24A1\; AltName\: Full=Cytochrome P450-CC24\; Flags\: Precursor:1.2181,
+(
+sp|O15528.1|CP27B_HUMAN RecName\: Full=25-hydroxyvitamin D-1 alpha hydroxylase\, mitochondrial\; AltName\: Full=25-OHD-1 alpha-hydroxylase\; AltName\: Full=25-hydroxyvitamin D\(3\) 1-alpha-hydroxylase\; Short=VD3 1A hydroxylase\; AltName\: Full=Calcidiol 1-monooxygenase\; AltName\: Full=Cytochrome P450 subfamily XXVIIB polypeptide 1\; AltName\: Full=Cytochrome P450C1 alpha\; AltName\: Full=Cytochrome P450VD1-alpha\; AltName\: Full=Cytochrome p450 27B1\; Flags\: Precursor:0.97003,
+sp|Q02318.1|CP27A_HUMAN RecName\: Full=Sterol 26-hydroxylase\, mitochondrial\; AltName\: Full=5-beta-cholestane-3-alpha\,7-alpha\,12-alpha-triol 26-hydroxylase\; AltName\: Full=Cytochrome P-450C27/25\; AltName\: Full=Cytochrome P450 27\; AltName\: Full=Sterol 27-hydroxylase\; AltName\: Full=Vitamin D\(3\) 25-hydroxylase\; Flags\: Precursor:0.97003)
+Branch 10:0.24807)
+Branch 15:0.10296)
+Branch 17:0.36653,
+(
+(
+(
+sp|Q6VVX0.1|CP2R1_HUMAN RecName\: Full=Vitamin D 25-hydroxylase\; AltName\: Full=Cytochrome P450 2R1:1.0583,
+(
+sp|P10635.2|CP2D6_HUMAN RecName\: Full=Cytochrome P450 2D6\; AltName\: Full=CYPIID6\; AltName\: Full=Cholesterol 25-hydroxylase\; AltName\: Full=Cytochrome P450-DB1\; AltName\: Full=Debrisoquine 4-hydroxylase:0.92997,
+(
+sp|P11712.3|CP2C9_HUMAN RecName\: Full=Cytochrome P450 2C9\; AltName\: Full=\(R\)-limonene 6-monooxygenase\; AltName\: Full=\(S\)-limonene 6-monooxygenase\; AltName\: Full=\(S\)-limonene 7-monooxygenase\; AltName\: Full=CYPIIC9\; AltName\: Full=Cholesterol 25-hydroxylase\; AltName\: Full=Cytochrome P-450MP\; AltName\: Full=Cytochrome P450 MP-4\; AltName\: Full=Cytochrome P450 MP-8\; AltName\: Full=Cytochrome P450 PB-1\; AltName\: Full=S-mephenytoin 4-hydroxylase:0.25078,
+sp|P10632.2|CP2C8_HUMAN RecName\: Full=Cytochrome P450 2C8\; AltName\: Full=CYPIIC8\; AltName\: Full=Cytochrome P450 IIC2\; AltName\: Full=Cytochrome P450 MP-12\; AltName\: Full=Cytochrome P450 MP-20\; AltName\: Full=Cytochrome P450 form 1\; AltName\: Full=S-mephenytoin 4-hydroxylase:0.25078)
+Branch 6:0.67919)
+Branch 9:0.12835)
+Branch 12:0.28374,
+(
+sp|P08686.1|CP21A_HUMAN RecName\: Full=Steroid 21-hydroxylase\; AltName\: Full=21-OHase\; AltName\: Full=Cytochrome P-450c21\; AltName\: Full=Cytochrome P450 21\; AltName\: Full=Cytochrome P450 XXI\; AltName\: Full=Cytochrome P450-C21\; AltName\: Full=Cytochrome P450-C21B:1.25,
+sp|P05093.1|CP17A_HUMAN RecName\: Full=Steroid 17-alpha-hydroxylase/17\,20 lyase\; AltName\: Full=17-alpha-hydroxyprogesterone aldolase\; AltName\: Full=CYPXVII\; AltName\: Full=Cytochrome P450 17A1\; AltName\: Full=Cytochrome P450-C17\; Short=Cytochrome P450c17\; AltName\: Full=Steroid 17-alpha-monooxygenase:1.25)
+Branch 16:0.092072)
+Branch 18:0.31595,
+(
+(
+sp|Q9NR63.1|CP26B_HUMAN RecName\: Full=Cytochrome P450 26B1\; AltName\: Full=Cytochrome P450 26A2\; AltName\: Full=Cytochrome P450 retinoic acid-inactivating 2\; Short=Cytochrome P450RAI-2\; AltName\: Full=Retinoic acid-metabolizing cytochrome:0.87543,
+sp|O43174.2|CP26A_HUMAN RecName\: Full=Cytochrome P450 26A1\; AltName\: Full=Cytochrome P450 retinoic acid-inactivating 1\; Short=Cytochrome P450RAI\; Short=hP450RAI\; AltName\: Full=Retinoic acid 4-hydroxylase\; AltName\: Full=Retinoic acid-metabolizing cytochrome:0.87543)
+Branch 8:0.71128,
+(
+sp|Q9Y6A2.1|CP46A_HUMAN RecName\: Full=Cholesterol 24-hydroxylase\; Short=CH24H\; AltName\: Full=Cholesterol 24-monooxygenase\; AltName\: Full=Cholesterol 24S-hydroxylase\; AltName\: Full=Cytochrome P450 46A1:1.5356,
+(
+sp|P08684.4|CP3A4_HUMAN RecName\: Full=Cytochrome P450 3A4\; AltName\: Full=1\,8-cineole 2-exo-monooxygenase\; AltName\: Full=Albendazole monooxygenase \(sulfoxide-forming\)\; AltName\: Full=Albendazole sulfoxidase\; AltName\: Full=CYPIIIA3\; AltName\: Full=CYPIIIA4\; AltName\: Full=Cholesterol 25-hydroxylase\; AltName\: Full=Cytochrome P450 3A3\; AltName\: Full=Cytochrome P450 HLp\; AltName\: Full=Cytochrome P450 NF-25\; AltName\: Full=Cytochrome P450-PCN1\; AltName\: Full=Nifedipine oxidase\; AltName\: Full=Quinine 3-monooxygenase\; AltName\: Full=Taurochenodeoxycholate 6-alpha-hydroxylase:1.5064,
+(
+sp|Q6ZWL3.2|CP4V2_HUMAN RecName\: Full=Cytochrome P450 4V2\; AltName\: Full=Docosahexaenoic acid omega-hydroxylase CYP4V2:1.1581,
+(
+(
+sp|Q02928.1|CP4AB_HUMAN RecName\: Full=Cytochrome P450 4A11\; AltName\: Full=20-hydroxyeicosatetraenoic acid synthase\; Short=20-HETE synthase\; AltName\: Full=CYP4AII\; AltName\: Full=CYPIVA11\; AltName\: Full=Cytochrome P-450HK-omega\; AltName\: Full=Cytochrome P450HL-omega\; AltName\: Full=Fatty acid omega-hydroxylase\; AltName\: Full=Lauric acid omega-hydroxylase\; AltName\: Full=Long-chain fatty acid omega-monooxygenase\; Flags\: Precursor:0.053502,
+sp|Q5TCH4.1|CP4AM_HUMAN RecName\: Full=Cytochrome P450 4A22\; AltName\: Full=CYPIVA22\; AltName\: Full=Fatty acid omega-hydroxylase\; AltName\: Full=Lauric acid omega-hydroxylase\; AltName\: Full=Long-chain fatty acid omega-monooxygenase\; Flags\: Precursor:0.053502)
+Branch 1:0.80626,
+(
+sp|P98187.1|CP4F8_HUMAN RecName\: Full=Cytochrome P450 4F8\; AltName\: Full=CYPIVF8:0.23801,
+(
+sp|Q9HBI6.3|CP4FB_HUMAN RecName\: Full=Phylloquinone omega-hydroxylase CYP4F11\; AltName\: Full=3-hydroxy fatty acids omega-hydroxylase CYP4F11\; AltName\: Full=Cytochrome P450 4F11\; Short=CYPIVF11:0.17015,
+(
+sp|P78329.1|CP4F2_HUMAN RecName\: Full=Phylloquinone omega-hydroxylase CYP4F2\; AltName\: Full=20-hydroxyeicosatetraenoic acid synthase\; Short=20-HETE synthase\; AltName\: Full=Arachidonic acid omega-hydroxylase\; AltName\: Full=CYPIVF2\; AltName\: Full=Cytochrome P450 4F2\; AltName\: Full=Cytochrome P450-LTB-omega\; AltName\: Full=Leukotriene-B\(4\) 20-monooxygenase 1\; AltName\: Full=Leukotriene-B\(4\) omega-hydroxylase 1\; Flags\: Precursor:0.13181,
+sp|Q08477.2|CP4F3_HUMAN RecName\: Full=Docosahexaenoic acid omega-hydroxylase CYP4F3\; AltName\: Full=20-hydroxyeicosatetraenoic acid synthase\; Short=20-HETE synthase\; AltName\: Full=CYPIVF3\; AltName\: Full=Cytochrome P450 4F3\; AltName\: Full=Cytochrome P450-LTB-omega\; AltName\: Full=Leukotriene-B\(4\) 20-monooxygenase 2\; AltName\: Full=Leukotriene-B\(4\) omega-hydroxylase 2:0.13181)
+Branch 3:0.038342)
+Branch 4:0.067855)
+Branch 5:0.62175)
+Branch 7:0.29835)
+Branch 14:0.34827)
+Branch 20:0.029191)
+Branch 21:0.051141)
+Branch 22:0.071293)
+Branch 23:0.029583)
+Branch 24:0.14414)
+Branch 25;

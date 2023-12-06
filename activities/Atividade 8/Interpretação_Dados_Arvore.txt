@@ -1,0 +1,1 @@
+Os resultados obtidos são dados de acordo com a árvore plotada no código (phytreeviewer) e seus dados são de acordo com o multialinhamento feito pelo mesmo, onde o alinhamento consensual é dado pelo aquivo fasta SequenciaConsensus_MultiAlignment.fasta .
